@@ -1,31 +1,31 @@
 # Overview
 
-{Provide a description of the software that you wrote to demonstrate the Java language.}
+## Description
+This program comes up with a random number that the user has to guess. the program tells the user if the number is to high or low or it is just right. It makes sure that user puts a valid guess or it keeps asking for a valid answer.
 
-{Describe your purpose for writing this software.}
+## Purpose 
+I wrote this program to help understand java better, I intentionally chose a program that would take user input because I have heard that it was hard to do.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
+## Software Demo video 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+## Tools
+I used Java gradle to help me with the file structure and to run the program in VS code which is another tool that I used
 
-{Describe the programming language that you used and any libraries.}
-
+## Libraries 
+I used java.until.Random which picked a random number for the user to guess. I also used java.util.scanner which helped be get user input and use it in my program.
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [W3school](https://www.w3schools.com/java/default.asp)
+- [beginnersbook](https://beginnersbook.com/java-collections-tutorials/)
+- [Youtube](https://www.youtube.com/watch?v=MwYRVKfb2M0&list=WL&index=56)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- I want to put a prompt that the user makes the range for the guessing game and not have it hard coded
+- I want to make a ui for this project 
  
