@@ -6,7 +6,7 @@ This program comes up with a random number that the user has to guess. the progr
 ## Purpose 
 I wrote this program to help understand java better, I intentionally chose a program that would take user input because I have heard that it was hard to do.
 
-
+## Demo video
 [Software Demo Video](https://youtu.be/-GLYlI04v3U)
 
 
